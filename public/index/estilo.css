@@ -1,0 +1,51 @@
+div#mostrar{
+    background-color: black;
+    color: #39ff14;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    margin-top: 30px;
+}
+div#card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    display: inline-block;
+    border: 1px solid #39ff14;
+    border-radius: 20px;
+    width: 22.5%;
+    padding-left: 30px;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+div#card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+nav{
+    border: 1px solid #39ff14;
+}
+li, a{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+li a 
+{
+    display: block;
+    color: #39ff14;
+    text-align: center;
+    padding: 14px 16px;
+}
+li a:hover {
+    background-color: rgb(47, 45, 45);
+    color: #39ff14;
+}
