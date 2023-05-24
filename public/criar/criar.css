@@ -1,35 +1,29 @@
 body{
-    margin: 0;
-    padding: 0;
-    background-color: black;
+    background: rgb(161,34,195);
+background: radial-gradient(circle, rgba(161,34,195,1) 0%, rgba(253,237,45,1) 100%);
 }
-form{
-    color: white;
-    text-align: center;
-}
-div#formu{
-    margin-top: 1%;
-    padding-top: 15%;
-    padding-bottom: 17%;
-    border-top: 1px solid #39ff14;
-    border-bottom: 1px solid #39ff14;
+
+div#cadastro{
     text-align: center;
 }
 input{
     width: 30%;
     height: 30px;
-    border: 1px solid #39ff14;
-    color: #39ff14;
+    color: white;
     background-color: black;
+   
 }
-div#botoes input, a{
+div#vaisef0000nathan input, a{
     width: 15%;
-    border: 1px solid #39ff14;
-    color: #39ff14;
+    color: white;
     background-color: black;
     height: 30px;
     text-decoration: none;
 }
+#Botao{
+    background-color: black;
+}
+
 h1{
-    color:#39ff14;
+   color: aliceblue;
 }
